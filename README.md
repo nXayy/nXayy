@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @nXayy
 - 👀 I’m interested in programing!
 - 🌱 I’m currently learning PHP,HTML,JS & CSS
-- 📫 How to reach me nxayofficial@gmail.com
